@@ -1,6 +1,5 @@
 setInterval(logTime, 1000);
 
-// time logger
 function logTime() {
   const time = getTime();
 
