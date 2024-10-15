@@ -38,5 +38,3 @@ function getTime() {
 
   return `${time.hours}:${time.minutes}:${time.seconds} ${time.ampm}`;
 }
-
-//...
